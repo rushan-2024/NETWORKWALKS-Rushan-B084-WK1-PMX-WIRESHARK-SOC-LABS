@@ -82,7 +82,7 @@ The skills practiced in these labs are relevant to:
 
 **Lab Result:**
 
-![Lab 3 Result](./Lab 3 Result - Ansari Rushan Aslam.png)
+![Lab 3 Result](./Lab_3_Result.png)
 
 ---
 
@@ -100,7 +100,7 @@ The skills practiced in these labs are relevant to:
 
 **Lab Result:**
 
-![Lab 4 Result](./Lab 4 Result - Ansari Rushan Aslam.png)
+![Lab 4 Result](./Lab_4_Result.png)
 
 ---
 
@@ -118,7 +118,7 @@ The skills practiced in these labs are relevant to:
 
 **Lab Result:**
 
-![Lab 5 Result](./Lab 5 Result - Ansari Rushan Aslam.png)
+![Lab 5 Result](./Lab_5_Result.png)
 
 ---
 
@@ -136,7 +136,7 @@ The skills practiced in these labs are relevant to:
 
 **Lab Result:**
 
-![Lab 6 Result](./Lab 6 Result - Ansari Rushan Aslam.png)
+![Lab 6 Result](./Lab_6_Result.png)
 
 ---
 
@@ -155,7 +155,7 @@ The skills practiced in these labs are relevant to:
 
 **Lab Result:**
 
-![Lab 7 Result](./Lab 7 Result - Ansari Rushan Aslam.png)
+![Lab 7 Result](./Lab_7_Result.png)
 
 ---
 
@@ -174,7 +174,7 @@ The skills practiced in these labs are relevant to:
 
 **Lab Result:**
 
-![Lab 8 Result](./Lab 8 Result - Ansari Rushan Aslam.png)
+![Lab 8 Result](./Lab_8_Result.png)
 
 ---
 
